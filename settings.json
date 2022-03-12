@@ -1,0 +1,9 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "explorer.compactFolders": false,
+    "vim.useCtrlKeys": false,
+    "vim.handleKeys": {
+        "<C-d>": true
+},
+
+}
