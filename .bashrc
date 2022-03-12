@@ -1,2 +1,2 @@
 set -o vi
-set xkbmap caps:swapescape
+setxkbmap -option caps:swapescape
